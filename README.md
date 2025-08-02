@@ -10,3 +10,4 @@ Simple Arduino Nano powerd rotator project, designed to spin a flag at 2 speeds.
 ![Circuit diagram](/photos/circuit%20digram.jpg)
 
 ## Documentation
+[Documentation of process](documentation.pdf)
